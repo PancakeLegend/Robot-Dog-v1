@@ -5,7 +5,7 @@ Except where otherwise noted, this work is available under Creative Commons Attr
 <img src="https://i.imgur.com/T1dZok0.png" width="143" height="50">
 
 
-## BOM
+## Bill of Materials
 
 [8x](https://www.aliexpress.com/item/32755377340.html?spm=a2g0s.9042311.0.0.5b7c4c4dximKax) 16mm 30RPM DC 12v Motor with gearbox
 
