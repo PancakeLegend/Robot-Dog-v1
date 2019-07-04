@@ -1,6 +1,6 @@
 # Robot-Dog
 
-Except where otherwise noted, this work is available as Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+Except where otherwise noted, this work is available under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 https://i.imgur.com/T1dZok0.png
 
 
