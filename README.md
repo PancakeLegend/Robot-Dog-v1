@@ -2,8 +2,6 @@
 
 Except where otherwise noted, this work is available under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
-![CC-BY-NC-SA](https://i.imgur.com/T1dZok0.png | width=150)
-
 <img src="https://i.imgur.com/T1dZok0.png" width="143" height="50">
 
 
