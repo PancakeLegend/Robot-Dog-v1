@@ -2,7 +2,7 @@
 
 Except where otherwise noted, this work is available under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
-![CC-A-NC-SA](https://i.imgur.com/T1dZok0.png)
+![CC-BY-NC-SA](https://i.imgur.com/T1dZok0.png | width = 150)
 
 
 ## BOM
