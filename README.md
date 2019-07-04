@@ -4,6 +4,8 @@ Except where otherwise noted, this work is available under Creative Commons Attr
 
 ![CC-BY-NC-SA](https://i.imgur.com/T1dZok0.png | width=150)
 
+<img src="https://i.imgur.com/T1dZok0.png" width="100" height="100">
+
 
 ## BOM
 
