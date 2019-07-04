@@ -1,5 +1,9 @@
 # Robot-Dog
 
+Except where otherwise noted, this work is available as Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+https://i.imgur.com/T1dZok0.png
+
+
 ## BOM
 
 [8x](https://www.aliexpress.com/item/32755377340.html?spm=a2g0s.9042311.0.0.5b7c4c4dximKax) 16mm 30RPM DC 12v Motor with gearbox
