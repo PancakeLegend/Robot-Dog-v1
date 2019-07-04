@@ -25,7 +25,7 @@ Except where otherwise noted, this work is available under Creative Commons Attr
 
 [4x](https://www.ebay.com.au/itm/Dowel-Pins-Steel-Sellock-Roll-G304-Stainless-Steel-M3-3MM-M4-4MM-Select/273021368988?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) 3mm x 40mm SS dowel pins
 
-[24x](https://www.ebay.com.au/itm/Brand-New-M3-Nylon-Plastic-Spacers-7-0mm-OD-3mm-5mm-8mm-10mm-Long-Kit-Set/222400423791?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) M3 7 x 3mm Nylon spacer
+[24x](https://www.ebay.com.au/itm/Brand-New-M3-Nylon-Plastic-Spacers-7-0mm-OD-3mm-5mm-8mm-10mm-Long-Kit-Set/222400423791?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) M3 7 x 3mm Nylon spacer (Used as bearing)
 
 [16x](https://www.aliexpress.com/item/32810778639.html?spm=a2g0s.9042311.0.0.27424c4dAKM9Pa
 ) TO-220 M3 transistor insulation pads
